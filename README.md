@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Run Buddy, Inc.
-=======
 # Run Buddy
->>>>>>> f258e6d793177fe87c643008eeb30c8ebac3db1d
 
 ## Purpose
 A website that offers fitness training services.
@@ -15,10 +11,4 @@ A website that offers fitness training services.
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
-<<<<<<< HEAD
-Made with ❤ by Patrick Sachleben
-
-### ©️2019 Run Buddy, Inc
-=======
 Made with ❤️ by [your name]
->>>>>>> f258e6d793177fe87c643008eeb30c8ebac3db1d
